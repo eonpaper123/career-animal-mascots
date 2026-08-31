@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "collection": "career-animal-mascots",
+  "imageFormat": "png",
+  "imageSize": {
+    "width": 1254,
+    "height": 1254
+  },
+  "baseRawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/",
+  "characters": [
+    {
+      "id": "golden-firefighter",
+      "nameZh": "金毛消防员",
+      "group": "golden-retriever",
+      "animalZh": "狗",
+      "breedZh": "金毛寻回犬",
+      "professionZh": "消防员",
+      "asset": "assets/characters/01-golden-firefighter.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/01-golden-firefighter.png"
+    },
+    {
+      "id": "golden-doctor",
+      "nameZh": "金毛医生",
+      "group": "golden-retriever",
+      "animalZh": "狗",
+      "breedZh": "金毛寻回犬",
+      "professionZh": "医生",
+      "asset": "assets/characters/02-golden-doctor.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/02-golden-doctor.png"
+    },
+    {
+      "id": "golden-astronaut",
+      "nameZh": "金毛宇航员",
+      "group": "golden-retriever",
+      "animalZh": "狗",
+      "breedZh": "金毛寻回犬",
+      "professionZh": "宇航员",
+      "asset": "assets/characters/03-golden-astronaut.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/03-golden-astronaut.png"
+    },
+    {
+      "id": "golden-pilot",
+      "nameZh": "金毛飞行员",
+      "group": "golden-retriever",
+      "animalZh": "狗",
+      "breedZh": "金毛寻回犬",
+      "professionZh": "飞行员",
+      "asset": "assets/characters/04-golden-pilot.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/04-golden-pilot.png"
+    },
+    {
+      "id": "golden-gardener",
+      "nameZh": "金毛园艺师",
+      "group": "golden-retriever",
+      "animalZh": "狗",
+      "breedZh": "金毛寻回犬",
+      "professionZh": "园艺师",
+      "asset": "assets/characters/05-golden-gardener.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/05-golden-gardener.png"
+    },
+    {
+      "id": "golden-photographer",
+      "nameZh": "金毛摄影师",
+      "group": "golden-retriever",
+      "animalZh": "狗",
+      "breedZh": "金毛寻回犬",
+      "professionZh": "摄影师",
+      "asset": "assets/characters/06-golden-photographer.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/06-golden-photographer.png"
+    },
+    {
+      "id": "british-shorthair-librarian",
+      "nameZh": "英短图书管理员",
+      "group": "cats",
+      "animalZh": "猫",
+      "breedZh": "英国短毛猫",
+      "professionZh": "图书管理员",
+      "asset": "assets/characters/07-british-shorthair-librarian.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/07-british-shorthair-librarian.png"
+    },
+    {
+      "id": "siamese-architect",
+      "nameZh": "暹罗建筑师",
+      "group": "cats",
+      "animalZh": "猫",
+      "breedZh": "暹罗猫",
+      "professionZh": "建筑师",
+      "asset": "assets/characters/08-siamese-architect.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/08-siamese-architect.png"
+    },
+    {
+      "id": "maine-coon-detective",
+      "nameZh": "缅因侦探",
+      "group": "cats",
+      "animalZh": "猫",
+      "breedZh": "缅因猫",
+      "professionZh": "侦探",
+      "asset": "assets/characters/09-maine-coon-detective.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/09-maine-coon-detective.png"
+    },
+    {
+      "id": "ragdoll-florist",
+      "nameZh": "布偶花艺师",
+      "group": "cats",
+      "animalZh": "猫",
+      "breedZh": "布偶猫",
+      "professionZh": "花艺师",
+      "asset": "assets/characters/10-ragdoll-florist.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/10-ragdoll-florist.png"
+    },
+    {
+      "id": "scottish-fold-veterinarian",
+      "nameZh": "折耳兽医",
+      "group": "cats",
+      "animalZh": "猫",
+      "breedZh": "苏格兰折耳猫",
+      "professionZh": "兽医",
+      "asset": "assets/characters/11-scottish-fold-veterinarian.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/11-scottish-fold-veterinarian.png"
+    },
+    {
+      "id": "american-curl-potter",
+      "nameZh": "美国卷耳陶艺师",
+      "group": "cats",
+      "animalZh": "猫",
+      "breedZh": "美国卷耳猫",
+      "professionZh": "陶艺师",
+      "asset": "assets/characters/12-american-curl-potter.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/12-american-curl-potter.png"
+    },
+    {
+      "id": "cockatiel-barista",
+      "nameZh": "玄凤咖啡师",
+      "group": "birds",
+      "animalZh": "鸟",
+      "breedZh": "玄凤鹦鹉",
+      "professionZh": "咖啡师",
+      "asset": "assets/characters/13-cockatiel-barista.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/13-cockatiel-barista.png"
+    },
+    {
+      "id": "budgerigar-teacher",
+      "nameZh": "虎皮鹦鹉教师",
+      "group": "birds",
+      "animalZh": "鸟",
+      "breedZh": "虎皮鹦鹉",
+      "professionZh": "教师",
+      "asset": "assets/characters/14-budgerigar-teacher.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/14-budgerigar-teacher.png"
+    },
+    {
+      "id": "barn-owl-judge",
+      "nameZh": "仓鸮法官",
+      "group": "birds",
+      "animalZh": "鸟",
+      "breedZh": "仓鸮",
+      "professionZh": "法官",
+      "asset": "assets/characters/15-barn-owl-judge.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/15-barn-owl-judge.png"
+    },
+    {
+      "id": "kingfisher-mail-carrier",
+      "nameZh": "翠鸟邮差",
+      "group": "birds",
+      "animalZh": "鸟",
+      "breedZh": "翠鸟",
+      "professionZh": "邮差",
+      "asset": "assets/characters/16-kingfisher-mail-carrier.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/16-kingfisher-mail-carrier.png"
+    },
+    {
+      "id": "puffin-captain",
+      "nameZh": "海鹦船长",
+      "group": "birds",
+      "animalZh": "鸟",
+      "breedZh": "海鹦",
+      "professionZh": "船长",
+      "asset": "assets/characters/17-puffin-captain.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/17-puffin-captain.png"
+    },
+    {
+      "id": "canary-radio-host",
+      "nameZh": "金丝雀电台主持",
+      "group": "birds",
+      "animalZh": "鸟",
+      "breedZh": "金丝雀",
+      "professionZh": "电台主持",
+      "asset": "assets/characters/18-canary-radio-host.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/18-canary-radio-host.png"
+    },
+    {
+      "id": "shiba-programmer",
+      "nameZh": "柴犬程序员",
+      "group": "dogs",
+      "animalZh": "狗",
+      "breedZh": "柴犬",
+      "professionZh": "程序员",
+      "asset": "assets/characters/19-shiba-programmer.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/19-shiba-programmer.png"
+    },
+    {
+      "id": "corgi-police",
+      "nameZh": "柯基警察",
+      "group": "dogs",
+      "animalZh": "狗",
+      "breedZh": "彭布罗克威尔士柯基犬",
+      "professionZh": "警察",
+      "asset": "assets/characters/20-corgi-police.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/20-corgi-police.png"
+    },
+    {
+      "id": "toy-poodle-hairdresser",
+      "nameZh": "玩具贵宾美发师",
+      "group": "dogs",
+      "animalZh": "狗",
+      "breedZh": "玩具贵宾犬",
+      "professionZh": "美发师",
+      "asset": "assets/characters/21-toy-poodle-hairdresser.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/21-toy-poodle-hairdresser.png"
+    },
+    {
+      "id": "husky-mountain-guide",
+      "nameZh": "哈士奇登山向导",
+      "group": "dogs",
+      "animalZh": "狗",
+      "breedZh": "西伯利亚哈士奇",
+      "professionZh": "登山向导",
+      "asset": "assets/characters/22-husky-mountain-guide.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/22-husky-mountain-guide.png"
+    },
+    {
+      "id": "dachshund-conductor",
+      "nameZh": "腊肠乐团指挥",
+      "group": "dogs",
+      "animalZh": "狗",
+      "breedZh": "腊肠犬",
+      "professionZh": "乐团指挥",
+      "asset": "assets/characters/23-dachshund-conductor.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/23-dachshund-conductor.png"
+    },
+    {
+      "id": "samoyed-yoga-instructor",
+      "nameZh": "萨摩耶瑜伽师",
+      "group": "dogs",
+      "animalZh": "狗",
+      "breedZh": "萨摩耶犬",
+      "professionZh": "瑜伽师",
+      "asset": "assets/characters/24-samoyed-yoga-instructor.png",
+      "rawUrl": "https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/24-samoyed-yoga-instructor.png"
+    }
+  ]
+}
