@@ -51,14 +51,14 @@
 直接使用 GitHub Raw URL：
 
 ```text
-https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/01-golden-firefighter.png
+https://raw.githubusercontent.com/eonpaper123/career-animal-mascots/main/assets/characters/01-golden-firefighter.png
 ```
 
 Web 示例：
 
 ```html
 <img
-  src="https://raw.githubusercontent.com/rawpaper123/career-animal-mascots/main/assets/characters/01-golden-firefighter.png"
+  src="https://raw.githubusercontent.com/eonpaper123/career-animal-mascots/main/assets/characters/01-golden-firefighter.png"
   alt="金毛消防员"
 />
 ```
